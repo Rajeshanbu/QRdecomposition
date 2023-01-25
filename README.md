@@ -51,7 +51,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-![output1](algo.png)
+![output1](qr.decomposition.png)
 
 
 ## Result
